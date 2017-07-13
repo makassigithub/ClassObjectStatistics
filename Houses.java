@@ -7,7 +7,6 @@ public class Houses {
 	private String location;
 	private String color;
 	
-	
 	//getters and setters 
 	public void setSize(int Size){this.size = Size;}
 	public int getSize(){return size;}
